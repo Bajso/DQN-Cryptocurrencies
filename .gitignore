@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 *.json
 *.h5
+job_submit
